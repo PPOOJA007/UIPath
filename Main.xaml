@@ -109,7 +109,7 @@
         <OutArgument x:TypeArguments="x:String">[test]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String" xml:space="preserve">just  git</InArgument>
+        <InArgument x:TypeArguments="x:String">just one git</InArgument>
       </Assign.Value>
     </Assign>
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="434,126" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[test]" />
